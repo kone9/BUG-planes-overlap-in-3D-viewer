@@ -1,12 +1,8 @@
-# Basic Water Material
+# BUG-planes-overlap-in-3D-viewer
 
-A basic water material for the Godot Engine 3.x.
 
-#### Video/How To:
-https://youtu.be/jbYrpKWTlpw
 
-![Image](assets/maujoe.basic_water_material/screenshots/basic_water_material_1.jpg)
+#### Video/How To: --------> https://www.youtube.com/watch?v=0X21AFnhT0s&feature=youtu.be <-------------
 
-## License
+<a href='https://drive.google.com/file/d/1eYLJ7Z19YTF23yUKeVBy9f2Yrse3iYYh/view?usp=drive_open&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh6.googleusercontent.com/Cx2mvwUSkmrgjwQJ-1p_tAfeR4fk409kDCzFPumMNcqU_QdqQpBGK8y8wPM=w2400' /></a>
 
-All parts of this project that are not copyrighted or licensed by someone else are released free under the MIT License - see the LICENSE.md file for details.

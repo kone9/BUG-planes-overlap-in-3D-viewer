@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://escenario_plataforma.tscn" type="PackedScene" id=1]
+[ext_resource path="res://assets/maujoe.basic_water_material/basic_water_material.tscn" type="PackedScene" id=2]
+
+[node name="EscenaPrincipal" type="Spatial"]
+
+[node name="Scene Root" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 26.0768, 0.850648, 0 )
+
+[node name="DirectionalLight" type="DirectionalLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.450558, 0.892747, 0, -0.892747, -0.450558, 0, 0, 0 )
+
+[node name="Node" parent="." instance=ExtResource( 2 )]
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 15.991, 3.95312, 11.6743 )
+current = true
+
